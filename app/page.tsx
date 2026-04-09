@@ -154,7 +154,7 @@ export default function Home() {
 
               <textarea
                 placeholder="Your Message"
-                rows="5"
+                rows={5}
                 className="p-3 rounded-lg bg-white/20 border border-white/30 text-white placeholder-gray-200 focus:outline-none"
               ></textarea>
 
